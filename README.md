@@ -1,2 +1,3 @@
 # hello-word
-Learning how git-hub works
+
+I am Rafael and I am earning how git-hub works. 
